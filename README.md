@@ -1,6 +1,7 @@
-# About_me
 <div align="center">
-  <a href="#english-version">🇺🇸 English</a> | <a href="#versión-en-español">🇨🇴 Español</a>
+  <a href="#english-version">🇬🇧 English</a> | <a href="#versión-en-español">🇨🇴 Español</a>
+  <br><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3776AB&center=true&vCenter=true&width=435&lines=Data+Scientist;Python+%2B+SQL+%2B+BigQuery;Resolviendo+problemas+con+datos" alt="Typing SVG" />
 </div>
 
 <hr style="margin: 2em 0; border: 0; border-bottom: 1px solid #ccc;">
@@ -254,14 +255,26 @@
 <hr style="margin: 2em 0; border: 0; border-bottom: 1px solid #ccc;">
 
 <!-- Contact Section -->
-<h3 style="text-align:center; margin-bottom: 0.5em; font-size: 1.4em; color: #333;">
-  ¿Interesad@ en colaborar o hablar de datos? / Interested in collaborating?
-</h3>
-<p style="text-align:center; line-height: 1.6;">
-  <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/natali-alba-tobias" target="_blank" style="color: #0077B5;">Natali Alba Tobias</a><br>
-  ## Contact
-![Snake animation](https://github.com/SUKHMAN-SINGH-1612/SUKHMAN-SINGH-1612/blob/main/assets/github-contribution-grid-snake.svg)
-</p>
-<p style="text-align:center; margin-top: 1.2em; line-height: 1.6;">
-  Thank you for visiting my repository! / ¡Gracias por visitar mi repositorio! 🚀
-</p>
+<h2 align="center" style="margin-top: 0; margin-bottom: 0.5em; font-size: 1.8em; color: #333;">
+  Contacto 📬
+</h2>
+<div align="center">
+  <h3 style="margin-bottom: 0.5em; font-size: 1.4em; color: #333;">
+    ¿Interesad@ en colaborar o hablar de datos? / Interested in collaborating?
+  </h3>
+  
+  <a href="mailto:natali.albatobias@gmail.com" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/natali-alba-tobias">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+
+  <br><br>
+  <!-- Serpiente de GitHub (Requiere GitHub Actions) -->
+  <img src="https://raw.githubusercontent.com/s1dartha/s1dartha/output/github-contribution-grid-snake.svg" alt="Animación de contribuciones">
+
+  <p style="margin-top: 1.2em; line-height: 1.6;">
+    Thank you for visiting my repository! / ¡Gracias por visitar mi repositorio! 🚀
+  </p>
+</div>
