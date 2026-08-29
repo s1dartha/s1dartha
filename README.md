@@ -271,8 +271,6 @@
   </a>
 
   <br><br>
-  <!-- Serpiente de GitHub (Requiere GitHub Actions) -->
-  <img src="https://raw.githubusercontent.com/s1dartha/s1dartha/output/github-contribution-grid-snake.svg" alt="Animación de contribuciones">
 
   <p style="margin-top: 1.2em; line-height: 1.6;">
     Thank you for visiting my repository! / ¡Gracias por visitar mi repositorio! 🚀
