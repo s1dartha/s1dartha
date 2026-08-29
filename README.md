@@ -255,10 +255,12 @@
 
 <!-- Contact Section -->
 <h3 style="text-align:center; margin-bottom: 0.5em; font-size: 1.4em; color: #333;">
-  ¿Interesada en colaborar o hablar de datos? / Interested in collaborating?
+  ¿Interesad@ en colaborar o hablar de datos? / Interested in collaborating?
 </h3>
 <p style="text-align:center; line-height: 1.6;">
   <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/natali-alba-tobias" target="_blank" style="color: #0077B5;">Natali Alba Tobias</a><br>
+  ## Contact
+![Snake animation](https://github.com/SUKHMAN-SINGH-1612/SUKHMAN-SINGH-1612/blob/main/assets/github-contribution-grid-snake.svg)
 </p>
 <p style="text-align:center; margin-top: 1.2em; line-height: 1.6;">
   Thank you for visiting my repository! / ¡Gracias por visitar mi repositorio! 🚀
