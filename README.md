@@ -68,27 +68,6 @@
   </tr>
 </table>
 
-<hr style="margin: 2em 0; border: 0; border-bottom: 1px solid #ccc;">
-
-<h2 style="margin-top: 0; margin-bottom: 0.5em; font-size: 1.8em; color: #333; border-bottom: 2px solid #ddd; padding-bottom: 0.2em;">
-  Professional Experience
-</h2>
-
-<p style="line-height: 1.6;">
-  <strong>Revenue Operations (RevOps) Intern - SAC</strong> at <em>Buk Software</em> (Jan 2026 – Jul 2026)<br>
-  &bull; Automated data pipelines (ETL) with Python, SQL, and BigQuery, reducing report generation time for 60+ people from a week to minutes.<br>
-  &bull; Monitored conversational AI systems and designed QA processes with human-in-the-loop feedback.<br>
-</p>
-
-<p style="line-height: 1.6;">
-  <strong>Research Assistant</strong> at <em>Universidad Externado de Colombia</em> (Aug 2024 – Mar 2025)<br>
-  &bull; Optimized internal databases and implemented data visualization strategies, significantly reducing manual work.<br>
-</p>
-
-<p style="line-height: 1.6;">
-  <strong>Deep Learning Instructor</strong> at <em>Semillero NeuroMinds</em> (Jun 2024 – Jul 2025)<br>
-  &bull; Led technical training for university students in Artificial Neural Networks and Deep Learning concepts.
-</p>
 
 <hr style="margin: 2em 0; border: 0; border-bottom: 1px solid #ccc;">
 
@@ -118,21 +97,6 @@
 <p style="line-height: 1.6;">
   When I'm not training models or debugging, I maintain my balance offline. You can find me playing sports, binge-watching a good series, or sharing time and hobbies with my loved ones.
 </p>
-
-<hr style="margin: 2em 0; border: 0; border-bottom: 1px solid #ccc;">
-
-<!-- GitHub Stats Section -->
-<h2 align="center" style="margin-top: 0; margin-bottom: 0.5em; font-size: 1.8em; color: #333;">
-  📈 GitHub Stats
-</h2>
-<div style="text-align:center;">
-  <a href="https://github.com/s1dartha" style="margin-right: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s1dartha&theme=nightowl&bg_color=1d1f21&langs_count=4&hide=html,css,jupyter%20notebook" alt="Top Languages" style="max-width: 45%;">
-  </a>
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=s1dartha&theme=onedark-duo" alt="GitHub Streak" />
-  </a>
-</div>
 
 <hr style="margin: 2em 0; border: 0; border-bottom: 1px solid #ccc;">
 
