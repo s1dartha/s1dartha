@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="#english-version">🇬🇧 English</a> | <a href="#versión-en-español">🇨🇴 Español</a>
+  <a href="#english-version">🇺🇸 English</a> | <a href="#versión-en-español">🇨🇴 Español</a>
   <br><br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3776AB&center=true&vCenter=true&width=435&lines=Data+Scientist;Python+%2B+SQL+%2B+BigQuery;Resolviendo+problemas+con+datos" alt="Typing SVG" />
 </div>
@@ -21,15 +21,18 @@
       I have worked on projects ranging from <strong>Artificial Intelligence</strong> applied to the search for missing persons, to predictive modeling, process automation, and <strong>Business Intelligence</strong>. My strong logical and critical thinking allows me to structure databases and solve problems systematically, translating complex data into strategic decisions. <span style="font-size:1.2em;">📊</span>
   </p>
 
-  <!-- Links & Badges -->
-  <div style="text-align:center; margin-top: 30px;">
-    <a href="https://www.linkedin.com/in/natali-alba-tobias" style="margin-right: 10px;">
-      <img src="https://img.shields.io/badge/LinkedIn-Natali_Alba-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-    </a>
-    <a href="https://github.com/s1dartha">
-      <img src="https://visitor-badge.laobi.icu/badge?page_id=s1dartha.s1dartha" alt="GitHub Visitors">
-    </a>
-  </div>
+<!-- Links & Badges -->
+<div style="text-align:center; margin-top: 30px;">
+  <a href="https://www.linkedin.com/in/natali-alba-tobias" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/LinkedIn-Natali_Alba-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://share.streamlit.io/user/s1dartha" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/Streamlit-s1dartha-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit">
+  </a>
+  <a href="https://github.com/s1dartha">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=s1dartha.s1dartha" alt="GitHub Visitors">
+  </a>
+</div>
 
   <hr style="margin: 2em 0; border: 0; border-bottom: 1px solid #ccc;">
 
